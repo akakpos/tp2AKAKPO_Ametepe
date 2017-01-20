@@ -1,0 +1,32 @@
+﻿body {
+    background: wheat;
+    background-image: url("im.jpg");
+     background-repeat: no-repeat ;
+      background-attachment: fixed;
+      text-align: center;
+    font-size: 60px;
+    background-size: 100%;
+}
+
+input {
+    font-size: 15px;
+}
+#rental {
+   
+    text-align: center;
+}
+
+#car {
+    text-align: center;
+}
+
+.model {
+    text-align: center;
+    //font-size: 30px;
+}
+
+
+
+#rental.begin{
+
+}
